@@ -3,7 +3,7 @@
     This is my personal web ID and develop by me using HTML, CSS and JavaScript.
 Link :- https://dumindudara.github.io/duminduudara.github.io/  
 
-## DEMOSTRATION   
+## DEMOSTRATION  
     LIGHT MODE
 ![Screenshot 2023-09-02 094316](https://github.com/DumindUdara/duminduudara.github.io/assets/98957798/0a00ef59-8967-4cd3-b133-a2b3f4f5ea9f)
 
