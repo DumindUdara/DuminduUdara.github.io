@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dumindu Udara</title>
+</head>
+
+<body>
+    <input type="checkbox" name="" id="check">
+    <div class="container">
+        <div class="menu">
+            <i class="fa fa-bars"></i>
+            <label for="check">
+                <i class="far fa-moon"></i>
+                <i class="far fa-sun"></i>
+            </label>
+        </div>
+        <div class="user">
+            <img src="Dumindu Udara.jpg" alt="">
+        </div>
+        <div class="username">P G Dumindu Udara</div>
+        <div class="label">Software Engineer | Sri Lankan </div>
+        <div class="labelnew"> CEO | Forgear </div>
+        <div class="getintouch">
+            <a href="https://www.facebook.com/dumidu.udara.9?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.facebook.com/dumidu.udara.9?mibextid=ZbWKwL"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/dumindu-udara-934ba7239/"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/DumindUdara"><i class="fab fa-github"></i></a>
+            <a href="https://wa.me/message/75UEGOEXCQYMO1"><i class="fab fa-whatsapp"></i></a>
+        </div>
+        <div class="downpart">
+            <button>Hire me! </button>
+            <p>-</p>
+            <!-- Trigger/Open The Modal -->
+            <button id="myBtn">Know more about me</button>
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+                <!-- Modal content -->
+                <div class="modal-content">
+                    <span class="close"></span>
+                    <label for="">
+                        <p>I serve as Founder CEO of Forgear, where I hold the role of Software Architect
+                            and Engineer. With a dynamic skill set, I lead the conceptualization and design of
+                            innovative software solutions. My proficiency extends to Java, Python, and Flutter for
+                            mobile app development. As an adept practitioner in the realm of AI/ML, I drive projects
+                            that harness their potential. My journey reflects a commitment to shaping the digital
+                            landscape through strategic leadership and technical acumen.</p>
+                    </label>
+
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+
+</body>
+<script>
+    // Get the modal
+    var modal = document.getElementById("myModal");
+
+    var ss = document.getElementById("check");
+
+    // Get the button that opens the modal
+    var btn = document.getElementById("myBtn");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks on the button, open the modal
+    btn.onclick = function () {
+        modal.style.display = "block";
+        modal.style.color = "black";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function () {
+        modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+</script>
+
+</html>
