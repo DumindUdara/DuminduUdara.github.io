@@ -1,7 +1,7 @@
 # WEB ID 
 
     This is my personal web ID and develop by me using HTML, CSS and JavaScript.
-Link :- https://dumindudara.github.io/duminduudara.github.io/ 
+Link :- https://dumindudara.github.io/duminduudara.github.io/  
 
 ## DEMOSTRATION 
     LIGHT MODE
