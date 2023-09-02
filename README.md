@@ -14,6 +14,6 @@ Link :- https://dumindudara.github.io/duminduudara.github.io/
 ![Screenshot 2023-09-02 094508](https://github.com/DumindUdara/duminduudara.github.io/assets/98957798/cf4a8aa7-28f5-4ade-baac-ba3328aaf9a7)
 
     MOBILE RESPONSIVE 
-        ![Screenshot 2023-09-02 094703](https://github.com/DumindUdara/duminduudara.github.io/assets/98957798/e1ba84e9-0568-4c7a-aeee-38e8e6189ac0)
+ ![Screenshot 2023-09-02 094703](https://github.com/DumindUdara/duminduudara.github.io/assets/98957798/e1ba84e9-0568-4c7a-aeee-38e8e6189ac0)
 
   
